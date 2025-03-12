@@ -2,7 +2,7 @@
 
 
 ## Overview
-This project is a Retrieval-Augmented Generation (RAG) based sentiment analysis and summarization model for YouTube comments related to tech products. The goal is to process large-scale comments, perform sentiment classification, topic modeling, and generate summarized insights using Flan-T5. The project follows a structured pipeline to clean, analyze, and extract meaningful insights from YouTube comments.
+This project is a Retrieval-Augmented Generation (RAG) based sentiment analysis and summarization model for YouTube comments related to tech products. The goal is to process large-scale comments, perform sentiment classification, topic modeling, and generate summarized insights using Flan-T5. The project follows a structured pipeline to clean, analyze, and extract meaningful insights from YouTube comments. You can check my [blog here](https://medium.com/@sriamirdhasudha/how-ai-reads-customer-feedback-a-rag-powered-approach-to-sentiment-analysis-f5900429cbbf).
 
 - <img width="810" alt="Screenshot 2025-03-10 at 5 36 08 PM" src="https://github.com/user-attachments/assets/262f12a6-d644-476d-a177-ffcea7d408d7" />
 - <img width="578" alt="Screenshot 2025-03-10 at 5 41 23 PM" src="https://github.com/user-attachments/assets/de712836-e8e6-4353-8a15-e94e3232cb9e" />
